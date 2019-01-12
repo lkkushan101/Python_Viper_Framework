@@ -1,0 +1,5 @@
+
+Checking for win32 chromedriver:2.45 in cache
+There is no cached driver. Downloading new one...
+Trying to download new driver from http://chromedriver.storage.googleapis.com/2.45/chromedriver_win32.zip
+Unpack archive C:\Users\kushan1\.wdm\chromedriver\2.45\win32\chromedriver.zip
